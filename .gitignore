@@ -70,3 +70,7 @@ venv.bak/
 # Django
 *.sqlite3
 db.sqlite3
+
+# Lab 1 Legacy Files
+profile.md
+git-cheatsheet.md
